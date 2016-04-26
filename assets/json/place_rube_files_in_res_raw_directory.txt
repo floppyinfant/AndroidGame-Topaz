@@ -1,0 +1,1 @@
+Place your R.U.B.E. JSON files into res/raw directory!

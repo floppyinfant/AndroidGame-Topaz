@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="demo_tp.png" type="bitmap" width="742" height="424" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker -->
+    <!-- $TexturePacker:SmartUpdate:f23bb1ee106f0a58805d7b5cf4ee3fd6:af6b8c8773f5bca3e99530bea80df558:b2ac3c86dc76259d10a5d780c75fa1a5$ -->
+    <textureregion id="0" src="bikeswingarm.png" x="1" y="1" width="41" height="16" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="41" srcheight="16"/>
+    <textureregion id="1" src="crate.png" x="44" y="1" width="32" height="32" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="32" srcheight="32"/>
+    <textureregion id="2" src="rollerwheel.bmp" x="78" y="1" width="32" height="32" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="32" srcheight="32"/>
+    <textureregion id="3" src="driverhead.bmp" x="112" y="1" width="32" height="32" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="32" srcheight="32"/>
+    <textureregion id="4" src="gunbarrel.bmp" x="146" y="1" width="256" height="32" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="256" srcheight="32"/>
+    <textureregion id="5" src="drivewheel.bmp" x="404" y="1" width="32" height="32" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="32" srcheight="32"/>
+    <textureregion id="6" src="tracksegment.bmp" x="438" y="1" width="32" height="32" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="32" srcheight="32"/>
+    <textureregion id="7" src="wheelshadow.bmp" x="472" y="1" width="32" height="32" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="32" srcheight="32"/>
+    <textureregion id="8" src="bikerearwheel.png" x="506" y="1" width="48" height="49" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="48" srcheight="49"/>
+    <textureregion id="9" src="bikefrontwheel.png" x="556" y="1" width="52" height="52" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="52" srcheight="52"/>
+    <textureregion id="10" src="tire.png" x="610" y="1" width="64" height="64" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="64" srcheight="64"/>
+    <textureregion id="11" src="drivertorso.bmp" x="676" y="1" width="32" height="64" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="32" srcheight="64"/>
+    <textureregion id="12" src="driverarmupper.bmp" x="1" y="67" width="32" height="64" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="32" srcheight="64"/>
+    <textureregion id="13" src="driverarmlower.bmp" x="35" y="67" width="32" height="64" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="32" srcheight="64"/>
+    <textureregion id="14" src="bikebody.png" x="69" y="67" width="145" height="71" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="145" srcheight="71"/>
+    <textureregion id="15" src="carbody.png" x="216" y="67" width="239" height="73" rotated="false" trimmed="true" srcx="12" srcy="27" srcwidth="256" srcheight="128"/>
+    <textureregion id="16" src="truck.png" x="457" y="67" width="284" height="96" rotated="false" trimmed="true" srcx="0" srcy="0" srcwidth="285" srcheight="97"/>
+    <textureregion id="17" src="carwheel.png" x="1" y="165" width="124" height="124" rotated="false" trimmed="true" srcx="2" srcy="2" srcwidth="128" srcheight="128"/>
+    <textureregion id="18" src="trackcover.bmp" x="127" y="165" width="512" height="128" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="512" srcheight="128"/>
+    <textureregion id="19" src="tankbody.bmp" x="1" y="295" width="512" height="128" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="512" srcheight="128"/>
+</texture>

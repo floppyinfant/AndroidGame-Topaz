@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="private" additionalparam=" -classpath C:\android-sdk\platforms\android-8\android.jar" author="true" classpath="../AndroidMidi/bin/androidmidi.jar;../AndEngine-GLES2-AnchorCenter/bin/andengine-gles2-anchorcenter.jar;../PdCore/bin/pdcore.jar;../AndEnginePhysicsBox2DExtension-GLES2-AnchorCenter/bin/andenginephysicsbox2dextension-gles2-anchorcenter.jar;C:\android-sdk\tools\support\annotations.jar" destdir="doc" doctitle="Android AndEngine Game Topaz" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="com.floppyinfant.android.game.scenes.levels.giraffe,com.floppyinfant.android.game.scenes.levels.demo,org.puredata.android.service,com.floppyinfant.android.game.scenes.levels.schnecki,com.floppyinfant.android.game,com.floppyinfant.android.game.scenes.levels,com.floppyinfant.android.game.scenes,com.noisepages.nettoyeur.midi,com.floppyinfant.android.game.scenes.menus,com.floppyinfant.android.game.scenes.layers,com.floppyinfant.android.game.scenes.levels.esel" source="1.6" sourcepath="src;gen" splitindex="true" use="true" version="true">
+            <link href="file:/C:/android-sdk/docs/reference"/>
+        </javadoc>
+    </target>
+</project>
